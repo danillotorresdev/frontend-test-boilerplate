@@ -1,0 +1,52 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.agradecimentos{
+
+}
+.agradecimentos--img{
+    height: 200px;
+    margin-top: 3em;
+}
+.agradecimentos--recado{
+    color: #9a9e9e;
+    margin-top: 1em;
+    text-align: center;
+}
+.agradecimentos--assinatura{
+    color: #63a09d;
+}
+.titulo{
+    color: #63a09d;
+    text-align: center;
+    margin-top: 2em;
+}
+
+.tituloProgresso{
+    color: #63a09d;
+    text-align: center;
+    margin-top: 1em;
+}
+
+.btn{
+    background: #63a09d;
+    border: none;
+    padding: 15px 15px;
+}
+
+.btn:hover{
+    background: #63a09d;
+}
+
+.custom-select{
+    height: 50px;
+}
+.price{
+    color: #577b7a;
+}
+
+.progress-bar{
+    background-color: #63a09d;
+}
+
